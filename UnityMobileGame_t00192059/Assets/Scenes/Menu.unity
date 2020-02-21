@@ -8299,7 +8299,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 9.399994, y: -13.200012}
+  m_AnchoredPosition: {x: 9.3984375, y: -13.199219}
   m_SizeDelta: {x: 203.1, y: 179.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1870061812
@@ -8389,7 +8389,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_UiScaleMode: 0
   m_ReferencePixelsPerUnit: 100
-  m_ScaleFactor: 1
+  m_ScaleFactor: 0.75
   m_ReferenceResolution: {x: 800, y: 600}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
